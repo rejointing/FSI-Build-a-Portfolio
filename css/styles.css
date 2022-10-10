@@ -1,5 +1,6 @@
 div {
-    background color: #474594;
-    text-align: center;
-    color: #bbf2e3; 
+    background-color:#474594;
+    text-align: left;
+    color: #bbf2e3;
+    font: Helvetica; 
 }
