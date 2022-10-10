@@ -2,5 +2,11 @@ div {
     background-color:#474594;
     text-align: left;
     color: #bbf2e3;
-    font: Helvetica; 
+    font: Helvetica; }
+    
+.Contact-Section {
+        text style: bold;
+        font-size: 19px;
+
+
 }
