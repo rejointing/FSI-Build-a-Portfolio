@@ -7,24 +7,20 @@ div {
     color: #2f2e46;
     font style: Helvetica;
     font weight: bold;
-    cursor: grab;
-
- }
+    cursor: grab;}
     
 .Contact-Section {
     font-size: 19px;
     color: #3f04e0a6;
     border-style: double;
     border-width: 5px;
-    radius: 3px;
-        text style: bold; }
+    text style: bold; }
         
 
             img {
                 height: 220px;
                 border style: solid;
-                border-color: #fefefe;
-            }
+                border-color: #fefefe;}
 
 li {
     color: #050074;
