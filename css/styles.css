@@ -1,26 +1,39 @@
+.grab {cursor: -webkit-grab; curser: grab;}
+
 div {
     background-color: #dfcfc9;
     text-align: left;
-    font-size: 19px
+    font-size: 21px;
     color: #2f2e46;
-    font: Helvetica;
-    Style: bold;
+    font style: Helvetica;
+    font weight: bold;
+    
 
  }
     
 .Contact-Section {
     font-size: 19px;
+    color: #3f04e0a6;
+    border-style: double;
+    border-width: 5px;
+    radius: 3px;
         text style: bold; }
         
 
             img {
                 height: 220px;
+                border style: solid;
+                border-color: #fefefe;
             }
 
-.li {
+li {
     color: #050074;
-    font size: 19px;
-    font-style: bold;
-}
+    font-size: 22px;
+    font-style: italic;
+    text-shadow: #908ce0;
 
+}
+p.normal {
+    font weight: bold;
+}
 
