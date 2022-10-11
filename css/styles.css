@@ -1,12 +1,16 @@
 div {
-    background-color:#474594;
+    background-color:#5d677c;
+    border-radius: 10px;
     text-align: left;
     color: #bbf2e3;
-    font: Helvetica; }
+    font: Arial; }
     
 .Contact-Section {
-        text style: bold;
-        font-size: 19px;
+    font-size: 19px;
+        text style: bold; }
+        
+.Destinations {
+            image=height: 12px;
+            image=width: 18px;    }
 
 
-}
