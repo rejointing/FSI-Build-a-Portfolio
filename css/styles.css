@@ -1,4 +1,4 @@
-.grab {cursor: -webkit-grab; curser: grab;}
+
 
 div {
     background-color: #dfcfc9;
@@ -37,3 +37,4 @@ p.normal {
     font weight: bold;
 }
 
+.grab {cursor:-webkit- grab; cursor: grab;}
