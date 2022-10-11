@@ -7,7 +7,7 @@ div {
     color: #2f2e46;
     font style: Helvetica;
     font weight: bold;
-    
+    cursor: grab;
 
  }
     
@@ -38,3 +38,5 @@ p.normal {
 }
 
 .grab {cursor:-webkit- grab; cursor: grab;}
+
+div {cursor:grab;}
